@@ -5,7 +5,7 @@
  stage("Checkout") 
  { 
  steps { 
- git url: 'addyurgiturl' 
+ git url: 'https://github.com/ajayakash32/Demo.git' 
  } 
  } 
  } 
