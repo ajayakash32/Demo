@@ -14,5 +14,6 @@ public class Application {
 
 		// Call any methods in SayHello object
 		sayHello.say();
+		sayHello.say();
 	}
 }
